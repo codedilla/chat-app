@@ -137,14 +137,14 @@ main {
   color: hsl(276, 55%, 52%);
   background-color: rgba(216, 158, 255, 0.15);
   width: 70%;
-  border-radius: 10px;
+  border-radius: 10px 10px 10px 0;
 }
 
 .left-chat {
   background-color: hsl(0, 0%, 100%);
   width: 70%;
   margin-left: auto;
-  border-radius: 10px;
+  border-radius: 10px 10px 0 10px;
 }
 
 .width60 {
@@ -170,7 +170,7 @@ main {
   margin-bottom: 0.8rem;
   width: 75%;
   padding: 0.6rem 1rem;
-  border-radius: 10px;
+  border-radius: 10px 10px 10px 0;
 }
 
 .flex-cir {
